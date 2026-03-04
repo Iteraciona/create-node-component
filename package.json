@@ -1,6 +1,6 @@
 {
   "name": "create-node-component",
-  "version": "0.10.1",
+  "version": "1.0.0",
   "description": "Create a Node Component for Backend or API",
   "bin": {
     "create-component": "./scripts/create-component.sh"
